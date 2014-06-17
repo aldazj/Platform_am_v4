@@ -1,0 +1,20 @@
+// Place all the styles related to the videoClips controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.bar {
+  width: 300px;
+}
+
+#progress {
+  background: #eee;
+  border: 1px solid #222;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#progressbar {
+  width: 0px;
+  height: 20px;
+  background: #333;
+}
